@@ -1,2 +1,1 @@
-# pruba2
-esta es la prueba dos
+resultado de pruba exitoso
